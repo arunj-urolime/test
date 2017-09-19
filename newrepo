@@ -1,1 +1,6 @@
-Hi
+#!/bin/bash
+echo Hi
+echo hello
+echo "hai"
+echo hhhhhiiii
+
